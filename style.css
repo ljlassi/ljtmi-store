@@ -40,7 +40,7 @@ a:hover, a:active {
 
 .navi {
     color:white;
-    background-color:darkblue;
+    background-color:black;
     text-transform: uppercase;
     font-weight: 400;
     font-size:0.85rem;
@@ -117,6 +117,7 @@ div.content-main a:active {
 }
 
 .footer {
+    min-height:250px;
     color:white;
-    background-color:darkblue;
+    background-color:#0f0f0f;
 }

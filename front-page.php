@@ -6,7 +6,7 @@
 
 ?>
 
-<?php get_header(); ?>
+<?php get_header('frontpage'); ?>
 
     <div class="row">
         <div class="col-md-2 col-sm-0 spacing-sides">
@@ -27,7 +27,9 @@
                                 get_template_part( 'template-parts/content/content', 'page' );
                             endwhile;
                         }
+                        echo do_shortcode('[featured_products per_page=\"3\" columns=\"3\"]')
                         ?>
+
                     </div>
                 </div>
                 <div class="col-md-1 col-sm-0 "></div>
