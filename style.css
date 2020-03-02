@@ -92,6 +92,11 @@ a.brandlink:hover, .brandlink:active {
     }
 }
 
+.img-main-pages {
+    max-width:100%;
+    height:auto;
+}
+
 div.content-main a:link {
     color:darkblue;
     text-decoration: none;
@@ -114,6 +119,10 @@ div.content-main a:active {
 
 .spacing-featured-image {
     height:25px;
+}
+
+.spacing-frontpage {
+    height:50px;
 }
 
 .footer {
