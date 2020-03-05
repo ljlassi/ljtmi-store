@@ -142,3 +142,11 @@ div.content-main a:active {
     color:white;
     background-color:#0f0f0f;
 }
+
+.tofadein-second {
+    opacity:0.0;
+}
+
+.tofadein-first {
+    opacity:0.0;
+}

@@ -73,3 +73,5 @@
 <div class="row">
     <div class="col-12 spacing-before-main"></div>
 </div>
+
+    <script src="<?php echo get_template_directory_uri(); ?>/js/fadeouts.js"></script>

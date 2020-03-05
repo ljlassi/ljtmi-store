@@ -59,7 +59,7 @@
 
 
         <div class="row">
-            <div class="col-md-6 col-sm-12">
+            <div class="col-md-6 col-sm-12 tofadein-first">
                 <div class="row">
                 <div class="col-md-6">
                     <img src="<?php echo get_template_directory_uri();?>/img/cpu.jpg" class="img-main-pages" alt="cpu">
@@ -70,7 +70,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-sm-12">
+            <div class="col-md-6 col-sm-12 tofadein-second">
                 <div class="row">
                 <div class="col-md-6">
                     <img src="<?php echo get_template_directory_uri();?>/img/gpu.png" class="img-main-pages" alt="gpu">
@@ -102,7 +102,7 @@
 
 
         <div class="row">
-            <div class="col-md-6 col-sm-12">
+            <div class="col-md-6 col-sm-12 tofadein-first">
                 <div class="row">
                     <div class="col-md-6">
                         <img src="<?php echo get_template_directory_uri();?>/img/motherboard.jpg" class="img-main-pages" alt="cpu">
@@ -113,7 +113,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-sm-12">
+            <div class="col-md-6 col-sm-12 tofadein-second">
                 <div class="row">
                     <div class="col-md-6">
                         <img src="<?php echo get_template_directory_uri();?>/img/case.jpg" class="img-main-pages" alt="gpu">

@@ -54,19 +54,6 @@ function ljtmi_store_custom_header_setup() {
 add_action( 'after_setup_theme', 'ljtmi_store_custom_header_setup' );
 
 /**
- * Switch the obsolete WP default jquery version to the newest (which is required by boostrap),
- * only applies to theme itself, does not affect the dashboard.
- */
-
-function ljtmi_store_switch_jquery() {
-    wp_deregister_script( 'jquery' );
-    $dependencies = array();
-    wp_register_script('jquery', get_template_directory_uri().'/node_modules/jquery/dist/jquery.min.js', $dependencies, '3.4.1');
-}
-
-add_action( 'wp_enqueue_scripts', 'ljtmi_store_switch_jquery', 3 );
-
-/**
  * Load the js scripts needed in <head>.
  */
 
