@@ -65,6 +65,7 @@
                     <img src="<?php echo get_template_directory_uri();?>/img/cpu.jpg" class="img-main-pages" alt="cpu">
                 </div>
                     <div class="col-md-6">
+                        <h3>Prosessorit</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sodales neque sodales ut etiam. Molestie nunc non blandit massa enim. Tellus molestie nunc non blandit massa enim nec. Sollicitudin ac orci phasellus egestas. Iaculis urna id volutpat lacus laoreet non</p>
                     </div>
                 </div>
@@ -75,6 +76,7 @@
                     <img src="<?php echo get_template_directory_uri();?>/img/gpu.png" class="img-main-pages" alt="gpu">
                 </div>
                 <div class="col-md-6">
+                    <h3>Grafiikkakortit</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sodales neque sodales ut etiam. Molestie nunc non blandit massa enim. Tellus molestie nunc non blandit massa enim nec. Sollicitudin ac orci phasellus egestas. Iaculis urna id volutpat lacus laoreet non</p>
                 </div>
                 </div>
@@ -106,6 +108,7 @@
                         <img src="<?php echo get_template_directory_uri();?>/img/motherboard.jpg" class="img-main-pages" alt="cpu">
                     </div>
                     <div class="col-md-6">
+                        <h3>Emolevyt</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sodales neque sodales ut etiam. Molestie nunc non blandit massa enim. Tellus molestie nunc non blandit massa enim nec. Sollicitudin ac orci phasellus egestas. Iaculis urna id volutpat lacus laoreet non</p>
                     </div>
                 </div>
@@ -116,6 +119,7 @@
                         <img src="<?php echo get_template_directory_uri();?>/img/case.jpg" class="img-main-pages" alt="gpu">
                     </div>
                     <div class="col-md-6">
+                        <h3>Kotelot</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sodales neque sodales ut etiam. Molestie nunc non blandit massa enim. Tellus molestie nunc non blandit massa enim nec. Sollicitudin ac orci phasellus egestas. Iaculis urna id volutpat lacus laoreet non</p>
                     </div>
                 </div>

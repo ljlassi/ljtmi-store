@@ -43,17 +43,33 @@
     <div class="row">
 
         <div class="col-12 p-0">
-            <?php
-
-            /**
-             * Gets the header image specified in theme options if exists, otherwise
-             * show theme default banner image.
-             */
-
-            if ( get_header_image() ) : ?>
-                <img src="<?php header_image(); ?>" alt="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" class="banner-img">
-            <?php endif; ?>
+            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="7500" data-pause="false">
+                <ol class="carousel-indicators">
+                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                </ol>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img class="d-block w-100" src="<?php echo get_template_directory_uri(); ?>/img/banner.jpg" alt="First slide">
+                        <div class="carousel-caption d-none d-md-block slider-bg">
+                            <h5 class="slider-h5">Laaturautaa kohtuuhintaan</h5>
+                            <p class="slider-p">Prosesorit, grafiikkakortit, emolevyt, kotelot ynnä muut</p>
+                            <p class="slider-p"><a class="slider-link" href="https://www.solarweb.com/PvSystems/PvSystem?pvSystemId=26f4863a-8fd2-4aa6-87df-6f67aecf50c3">Suosittelemamme tuotteet</a></p>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="<?php echo get_template_directory_uri(); ?>/img/gaming.jpg" alt="Second slide">
+                        <div class="carousel-caption d-none d-md-block slider-bg">
+                            <h5 class="slider-h5">Rakenna oma pelikoneesi!</h5>
+                            <p class="slider-p">Osa tuotteista -25%!</p>
+                            <p class="slider-p"><a class="slider-link" href="<?php echo get_site_url() . '/poliittinen-toiminta/perusosasto/liity-jtyn-jaseneksi/' ?>">Katso alennustuotteet!</a></p>
+                        </div>
+                    </div>
+                </div>
+    </div>
         </div>
     </div>
 
+<div class="row">
     <div class="col-12 spacing-before-main"></div>
+</div>

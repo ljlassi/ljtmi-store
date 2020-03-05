@@ -92,6 +92,18 @@ a.brandlink:hover, .brandlink:active {
     }
 }
 
+.slider-h5 {
+    color:white;
+    font-size:2.7rem;
+}
+
+.slider-bg {
+    background-color:rgba(0, 0, 0, 0.6);
+}
+.slider-bg-2 {
+    background-color:rgba(0, 0, 0, 0.4);
+}
+
 .img-main-pages {
     max-width:100%;
     height:auto;
