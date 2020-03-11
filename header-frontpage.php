@@ -53,7 +53,7 @@
                         <img class="d-block w-100" src="<?php echo get_template_directory_uri(); ?>/img/banner.jpg" alt="First slide">
                         <div class="carousel-caption d-none d-md-block slider-bg">
                             <h5 class="slider-h5">Laaturautaa kohtuuhintaan</h5>
-                            <p class="slider-p">Prosesorit, grafiikkakortit, emolevyt, kotelot ynnä muut</p>
+                            <p class="slider-p">Prosessorit, grafiikkakortit, emolevyt, kotelot ynnä muut</p>
                             <p class="slider-p"><a class="slider-link" href="https://www.solarweb.com/PvSystems/PvSystem?pvSystemId=26f4863a-8fd2-4aa6-87df-6f67aecf50c3">Suosittelemamme tuotteet</a></p>
                         </div>
                     </div>

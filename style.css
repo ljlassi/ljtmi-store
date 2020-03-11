@@ -137,6 +137,7 @@ div.content-main a:active {
     height:50px;
 }
 
+
 .footer {
     min-height:250px;
     color:white;
@@ -151,6 +152,9 @@ div.content-main a:active {
     opacity:0.0;
 }
 
+.woocommerce .col-1, .woocommerce .col-2 {
+    max-width: none !important;
+}
 .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button {
     background-color:black;
     color:white !important;
@@ -159,4 +163,9 @@ div.content-main a:active {
 .woocommerce #respond input#submit, .woocommerce a.button:hover, .woocommerce button.button, .woocommerce input.button {
     color: black !important;
     background-color:lightgrey !important;
+}
+
+.woocommerce form .form-row .input-text, .woocommerce-page form .form-row .input-text {
+    box-sizing: border-box !important;
+    width: 100% !important;
 }
