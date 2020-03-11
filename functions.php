@@ -204,9 +204,10 @@ if ( function_exists( 'add_theme_support' ) ) {
     add_image_size( 'category-thumb', 700, 9999 ); // 300 pixels wide (and unlimited height)
 }
 
+/*
+
 remove_action( 'woocommerce_before_main_content', 'woocommerce_output_content_wrapper', 10);
 remove_action( 'woocommerce_after_main_content', 'woocommerce_output_content_wrapper_end', 10);
-
 
 function ljtmi_store_wrapper_start() {
     echo '<section id="main">';
@@ -218,5 +219,7 @@ function ljtmi_store_wrapper_end() {
 
 add_action('woocommerce_before_main_content', 'ljtmi_store_wrapper_start', 10);
 add_action('woocommerce_after_main_content', 'ljtmi_store_wrapper_end', 10);
+
+*/
 
 ?>

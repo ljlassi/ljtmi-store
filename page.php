@@ -27,7 +27,7 @@
 
             <div class="row">
                 <div class="col-md-7 col-sm-12">
-                    <div class="main p-3">
+                    <div class="main p-3 content-main">
                         <?php
 
                         /**
@@ -45,7 +45,7 @@
                 </div>
                 <div class="col-md-1 col-sm-0 "></div>
                 <div class="col-md-4 col-sm-12">
-                    <div class="sidebar-right p-3">
+                    <div class="sidebar-right p-3 content-main">
                         <?php if ( is_active_sidebar( 'right-side-bar' ) ) : ?>
                             <?php dynamic_sidebar( 'right-side-bar' ); ?>
                         <?php endif; ?>

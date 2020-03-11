@@ -150,3 +150,13 @@ div.content-main a:active {
 .tofadein-first {
     opacity:0.0;
 }
+
+.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button {
+    background-color:black;
+    color:white !important;
+}
+
+.woocommerce #respond input#submit, .woocommerce a.button:hover, .woocommerce button.button, .woocommerce input.button {
+    color: black !important;
+    background-color:lightgrey !important;
+}
