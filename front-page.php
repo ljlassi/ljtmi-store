@@ -13,7 +13,7 @@
         </div>
         <div class="col-md-8 col-sm-12">
             <div class="row">
-                <div class="col-md-2 col-sm-0 "></div>
+                <div class="col-md-2 col-sm-0 spacing-sides"></div>
                 <div class="col-md-8 col-sm-12">
                     <div class="main p-3 d-flex justify-content-center content-main">
                         <?php
@@ -29,6 +29,19 @@
                             endwhile;
                         }
                         ?>
+
+                    </div>
+
+                    <div class="row">
+                        <div class="col-12 d-flex justify-content-center">
+                            <h2>Esittelyssä:</h2>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-12 d-flex justify-content-center">
+                            <img src="<?php echo get_template_directory_uri();?>/img/decoration.jpg" alt="decoration" class="img-decoration">
+                        </div>
                     </div>
                     <div class="main p-3 d-flex justify-content-center content-main">
                         <?php
@@ -41,30 +54,40 @@
                         <h3><a href="<?php echo get_site_url(); ?>/kauppa/">Täysi tuotelista</a></h3>
 
                     </div>
+                    <div class="row">
+                        <div class="col-12 d-flex justify-content-center">
+                            <img src="<?php echo get_template_directory_uri();?>/img/decoration.jpg" alt="decoration" class="img-decoration">
+                        </div>
+                    </div>
+                    <div class="row">
+                    <div class="col-12 main p-1 pt-5 d-flex justify-content-center content-main">
+                        <h3>Päätuotekategoriat</h3>
+                    </div>
+                    </div>
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-center">
+                                <img src="<?php echo get_template_directory_uri();?>/img/decoration.jpg" alt="decoration" class="img-decoration">
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12 spacing-frontpage">
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-md-2 col-sm-0 spacing-sides"></div>
                 </div>
-                <div class="col-md-2 col-sm-0 "></div>
-                </div>
+        </div>
             <div class="col-md-2 col-sm-0 spacing-sides">
             </div>
         </div>
-    </div>
 
-
-        <div class="row">
-            <div class="col-12 spacing-frontpage">
-            </div>
-        </div>
 
         <div class="row">
 
             <div class="col-md-1 col-sm-0">
             </div>
 
-            <div class="col-md-10 col-sm-0">
-                <div class="main p-3 pb-5 d-flex justify-content-center content-main">
-                    <h3>Päätuotekategoriat</h3>
-
-                </div>
+            <div class="col-md-10 col-sm-0 pt-2">
 
         <div class="row">
             <div class="col-md-6 col-sm-12 tofadein-first content-main">

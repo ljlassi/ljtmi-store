@@ -137,6 +137,14 @@ div.content-main a:active {
     height:50px;
 }
 
+.spacing-sides {
+    background-color: lightgrey;
+}
+
+.img-decoration {
+    max-height:5px;
+    width:50%;
+}
 
 .footer {
     min-height:250px;
