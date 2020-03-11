@@ -40,7 +40,7 @@ a:hover, a:active {
 
 .navi {
     color:white;
-    background-color:black;
+    background-color:#060526;
     text-transform: uppercase;
     font-weight: 400;
     font-size:0.85rem;
@@ -56,7 +56,7 @@ a.navilink:link, .navilink:visited {
 
 a.navilink:hover, .navilink:active {
     font-weight: bold;
-    color:blue !important;
+    color:#060526 !important;
     text-decoration: none;
     padding-top:1rem;
     padding-bottom:1rem;
@@ -80,7 +80,7 @@ a.brandlink:hover, .brandlink:active {
     background-color:rgba(255, 255, 255, 1.0)
 }
 .navi-ul li.show:hover {
-    background-color:darkblue;
+    background-color:#060526;
 }
 
 @media only screen and (max-width: 1024px) {
@@ -110,12 +110,12 @@ a.brandlink:hover, .brandlink:active {
 }
 
 div.content-main a:link {
-    color:darkblue;
+    color:#070C73;
     text-decoration: none;
 }
 
 div.content-main a:visited {
-    color:darkblue;
+    color:#070C73;
     text-decoration: none;
 }
 
@@ -130,23 +130,23 @@ div.content-main a:active {
 }
 
 div.content-main h1 {
-    color:#424242;
+    color:#0D0800;
 }
 
 div.content-main h2 {
-    color:#424242;
+    color:#0D0800;
 }
 
 div.content-main h3 {
-    color:#424242;
+    color:#0D0800;
 }
 
 div.content-main h4 {
-    color:#424242;
+    color:#0D0800;
 }
 
 div.content-main h5 {
-    color:#424242;
+    color:#0D0800;
 }
 
 .spacing-featured-image {
@@ -158,7 +158,7 @@ div.content-main h5 {
 }
 
 .spacing-sides {
-    background-color: #3b3b3b;
+    background-color: rgba(6, 5, 38, 0.85);
 }
 
 .img-decoration {
@@ -169,7 +169,7 @@ div.content-main h5 {
 .footer {
     min-height:250px;
     color:white;
-    background-color:#0f0f0f;
+    background-color:#0D0800;
 }
 
 .tofadein-second {
