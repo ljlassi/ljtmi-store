@@ -33,7 +33,7 @@
                     </div>
 
                     <div class="row">
-                        <div class="col-12 d-flex justify-content-center">
+                        <div class="col-12 d-flex justify-content-center content-main">
                             <h2>Esittelyssä:</h2>
                         </div>
                     </div>

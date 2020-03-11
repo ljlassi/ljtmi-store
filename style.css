@@ -129,6 +129,26 @@ div.content-main a:active {
     text-decoration: none;
 }
 
+div.content-main h1 {
+    color:#424242;
+}
+
+div.content-main h2 {
+    color:#424242;
+}
+
+div.content-main h3 {
+    color:#424242;
+}
+
+div.content-main h4 {
+    color:#424242;
+}
+
+div.content-main h5 {
+    color:#424242;
+}
+
 .spacing-featured-image {
     height:25px;
 }
