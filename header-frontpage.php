@@ -50,19 +50,19 @@
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="d-block w-100" src="<?php echo get_template_directory_uri(); ?>/img/banner.jpg" alt="First slide">
-                        <div class="carousel-caption d-none d-md-block slider-bg">
-                            <h5 class="slider-h5">Laaturautaa kohtuuhintaan</h5>
-                            <p class="slider-p">Prosessorit, grafiikkakortit, emolevyt, kotelot ynnä muut</p>
-                            <p class="slider-p"><a class="slider-link" href="https://www.solarweb.com/PvSystems/PvSystem?pvSystemId=26f4863a-8fd2-4aa6-87df-6f67aecf50c3">Suosittelemamme tuotteet</a></p>
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <img class="d-block w-100" src="<?php echo get_template_directory_uri(); ?>/img/gaming.jpg" alt="Second slide">
+                        <img class="d-block w-100" src="<?php echo get_template_directory_uri(); ?>/img/gaming.jpg" alt="First slide">
                         <div class="carousel-caption d-none d-md-block slider-bg">
                             <h5 class="slider-h5">Rakenna oma pelikoneesi!</h5>
                             <p class="slider-p">Osa tuotteista -25%!</p>
                             <p class="slider-p"><a class="slider-link" href="<?php echo get_site_url() . '/poliittinen-toiminta/perusosasto/liity-jtyn-jaseneksi/' ?>">Katso alennustuotteet!</a></p>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="<?php echo get_template_directory_uri(); ?>/img/banner.jpg" alt="Second slide">
+                        <div class="carousel-caption d-none d-md-block slider-bg">
+                            <h5 class="slider-h5">Laaturautaa kohtuuhintaan</h5>
+                            <p class="slider-p">Prosessorit, grafiikkakortit, emolevyt, kotelot ynnä muut</p>
+                            <p class="slider-p"><a class="slider-link" href="https://www.solarweb.com/PvSystems/PvSystem?pvSystemId=26f4863a-8fd2-4aa6-87df-6f67aecf50c3">Suosittelemamme tuotteet</a></p>
                         </div>
                     </div>
                 </div>
