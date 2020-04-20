@@ -12,6 +12,11 @@
         <div class="col-md-10 col-sm-12">
             <div class="row">
                 <div class="col-12">
+                    <div class="row">
+                        <div class="col-12 spacing-frontpage">
+                        </div>
+                    </div>
+
                     <div class="main p-3 d-flex justify-content-center content-main">
                         <?php
 
@@ -29,15 +34,14 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-1 col-sm-0 spacing-sides">
+            <div class="row">
+                <div class="col-12 spacing-frontpage">
+                </div>
             </div>
+        </div>
+        <div class="col-md-1 col-sm-0 spacing-sides">
         </div>
     </div>
 
-
-        <div class="row">
-            <div class="col-12 spacing-frontpage">
-            </div>
-        </div>
 
 <?php get_footer(); ?>

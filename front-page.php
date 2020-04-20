@@ -70,7 +70,7 @@
                             </div>
                         </div>
                     <div class="row">
-                        <div class="col-12 spacing-frontpage">
+                        <div class="col-12 spacing-frontpage-bottom">
                         </div>
                     </div>
                     </div>
@@ -87,7 +87,7 @@
             <div class="col-md-1 col-sm-0">
             </div>
 
-            <div class="col-md-10 col-sm-0 pt-2">
+            <div class="col-md-10 col-sm-0 pt-4">
 
         <div class="row">
             <div class="col-md-6 col-sm-12 tofadein-first content-main">
@@ -96,7 +96,7 @@
                     <img src="<?php echo get_template_directory_uri();?>/img/cpu.jpg" class="img-main-pages" alt="cpu">
                 </div>
                     <div class="col-md-6">
-                        <a href="<?php echo get_site_url(); ?>/tuote-osasto/prosessorit/"><h4>Prosessorit</h4></a>
+                        <h4><a href="<?php echo get_site_url(); ?>/tuote-osasto/prosessorit/">Prosessorit</a></h4>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sodales neque sodales ut etiam. Molestie nunc non blandit massa enim. Tellus molestie nunc non blandit massa enim nec. Sollicitudin ac orci phasellus egestas. Iaculis urna id volutpat lacus laoreet non</p>
                     </div>
                 </div>
@@ -107,7 +107,7 @@
                     <img src="<?php echo get_template_directory_uri();?>/img/gpu.png" class="img-main-pages" alt="gpu">
                 </div>
                 <div class="col-md-6">
-                    <a href="<?php echo get_site_url(); ?>/tuote-osasto/grafiikkakortit/"><h4>Grafiikkakortit</h4></a>
+                    <h4><a href="<?php echo get_site_url(); ?>/tuote-osasto/grafiikkakortit/">Grafiikkakortit</a></h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sodales neque sodales ut etiam. Molestie nunc non blandit massa enim. Tellus molestie nunc non blandit massa enim nec. Sollicitudin ac orci phasellus egestas. Iaculis urna id volutpat lacus laoreet non</p>
                 </div>
                 </div>
@@ -139,7 +139,7 @@
                         <img src="<?php echo get_template_directory_uri();?>/img/motherboard.jpg" class="img-main-pages" alt="cpu">
                     </div>
                     <div class="col-md-6">
-                        <a href="<?php echo get_site_url(); ?>/tuote-osasto/emolevyt/"><h4>Emolevyt</h4></a>
+                        <h4><a href="<?php echo get_site_url(); ?>/tuote-osasto/emolevyt/">Emolevyt</a></h4>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sodales neque sodales ut etiam. Molestie nunc non blandit massa enim. Tellus molestie nunc non blandit massa enim nec. Sollicitudin ac orci phasellus egestas. Iaculis urna id volutpat lacus laoreet non</p>
                     </div>
                 </div>
@@ -150,7 +150,7 @@
                         <img src="<?php echo get_template_directory_uri();?>/img/case.jpg" class="img-main-pages" alt="gpu">
                     </div>
                     <div class="col-md-6">
-                        <a href="<?php echo get_site_url(); ?>/tuote-osasto/kotelot/"><h4>Kotelot</h4></a>
+                        <h4><a href="<?php echo get_site_url(); ?>/tuote-osasto/kotelot/">Kotelot</a></h4>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sodales neque sodales ut etiam. Molestie nunc non blandit massa enim. Tellus molestie nunc non blandit massa enim nec. Sollicitudin ac orci phasellus egestas. Iaculis urna id volutpat lacus laoreet non</p>
                     </div>
                 </div>

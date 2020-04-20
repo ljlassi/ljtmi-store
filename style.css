@@ -157,6 +157,11 @@ div.content-main h5 {
     height:50px;
 }
 
+.spacing-frontpage-bottom {
+    height:50px;
+    border-bottom: 1px solid gray;
+}
+
 .spacing-sides {
     background-color: rgba(6, 5, 38, 0.85);
 }
@@ -196,4 +201,8 @@ div.content-main h5 {
 .woocommerce form .form-row .input-text, .woocommerce-page form .form-row .input-text {
     box-sizing: border-box !important;
     width: 100% !important;
+}
+
+#order_comments {
+    width:300% !important;
 }
