@@ -54,7 +54,7 @@
                         <div class="carousel-caption d-none d-md-block slider-bg">
                             <h5 class="slider-h5">Rakenna oma pelikoneesi!</h5>
                             <p class="slider-p">Osa tuotteista -25%!</p>
-                            <p class="slider-p"><a class="slider-link" href="<?php echo get_site_url() . '/poliittinen-toiminta/perusosasto/liity-jtyn-jaseneksi/' ?>">Katso alennustuotteet!</a></p>
+                            <p class="slider-p"><a class="slider-link" href="<?php echo get_site_url() . '#' ?>">Katso alennustuotteet!</a></p>
                         </div>
                     </div>
                     <div class="carousel-item">
@@ -62,7 +62,7 @@
                         <div class="carousel-caption d-none d-md-block slider-bg">
                             <h5 class="slider-h5">Laaturautaa kohtuuhintaan</h5>
                             <p class="slider-p">Prosessorit, grafiikkakortit, emolevyt, kotelot ynnä muut</p>
-                            <p class="slider-p"><a class="slider-link" href="https://www.solarweb.com/PvSystems/PvSystem?pvSystemId=26f4863a-8fd2-4aa6-87df-6f67aecf50c3">Suosittelemamme tuotteet</a></p>
+                            <p class="slider-p"><a class="slider-link" href="<?php echo get_site_url() . '#' ?>">Suosittelemamme tuotteet</a></p>
                         </div>
                     </div>
                 </div>
