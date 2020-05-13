@@ -185,6 +185,10 @@ div.content-main h5 {
     opacity:0.0;
 }
 
+.blog-page-title {
+    padding-bottom:15px;
+}
+
 .woocommerce .col-1, .woocommerce .col-2 {
     max-width: none !important;
 }
@@ -204,5 +208,16 @@ div.content-main h5 {
 }
 
 #order_comments {
-    width:300% !important;
+    width:100% !important;
 }
+
+.woocommerce form .form-row {
+    display:inline;
+}
+
+.woocommerce-billing-fields {
+}
+
+.woocommerce-billing-fields__field-wrapper  {
+}
+
