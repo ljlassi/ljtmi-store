@@ -9,12 +9,12 @@
 <?php get_header('frontpage'); ?>
 
     <div class="row">
-        <div class="col-md-2 col-sm-0 spacing-sides">
+        <div class="col-xl-2 col-lg-0 spacing-sides">
         </div>
-        <div class="col-md-8 col-sm-12">
+        <div class="col-xl-8 col-lg-12">
             <div class="row">
-                <div class="col-md-2 col-sm-0 spacing-sides"></div>
-                <div class="col-md-8 col-sm-12 pt-2">
+                <div class="col-xl-2 col-lg-1 col-md-0 spacing-sides"></div>
+                <div class="col-xl-8 col-lg-10 col-md-12 pt-2">
                     <div class="main p-3 pb-4 d-flex justify-content-center content-main">
                         <?php
 
@@ -74,23 +74,23 @@
                         </div>
                     </div>
                     </div>
-                <div class="col-md-2 col-sm-0 spacing-sides"></div>
+                <div class="col-xl-2 col-lg-1 col-md-0 spacing-sides"></div>
                 </div>
         </div>
-            <div class="col-md-2 col-sm-0 spacing-sides">
+            <div class="col-xl-2 col-lg-0 spacing-sides">
             </div>
         </div>
 
 
         <div class="row">
 
-            <div class="col-md-1 col-sm-0">
+            <div class="col-xl-1 col-lg-0">
             </div>
 
-            <div class="col-md-10 col-sm-0 pt-4">
+            <div class="col-xl-10 col-lg-0 pt-4">
 
         <div class="row">
-            <div class="col-md-6 col-sm-12 tofadein-first content-main">
+            <div class="col-lg-6 col-md-12 pb-md-4 tofadein-first content-main">
                 <div class="row">
                 <div class="col-md-6">
                     <img src="<?php echo get_template_directory_uri();?>/img/cpu.jpg" class="img-main-pages" alt="cpu">
@@ -101,7 +101,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-sm-12 tofadein-second content-main">
+            <div class="col-lg-6 col-md-12 pb-md-4 tofadein-second content-main">
                 <div class="row">
                 <div class="col-md-6">
                     <img src="<?php echo get_template_directory_uri();?>/img/gpu.png" class="img-main-pages" alt="gpu">
@@ -113,7 +113,7 @@
                 </div>
             </div>
         </div>
-                <div class="col-md-1 col-sm-0">
+                <div class="col-xl-1 col-lg-0">
                 </div>
             </div>
         </div>
@@ -126,14 +126,14 @@
 
 <div class="row">
 
-    <div class="col-md-1 col-sm-0">
+    <div class="col-xl-1 col-lg-0">
     </div>
 
-    <div class="col-md-10 col-sm-0">
+    <div class="col-xl-10 col-lg-0">
 
 
         <div class="row">
-            <div class="col-md-6 col-sm-12 tofadein-first content-main">
+            <div class="col-lg-6 col-md-12 pb-md-4 tofadein-first content-main">
                 <div class="row">
                     <div class="col-md-6">
                         <img src="<?php echo get_template_directory_uri();?>/img/motherboard.jpg" class="img-main-pages" alt="cpu">
@@ -144,7 +144,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-sm-12 tofadein-second content-main">
+            <div class="col-lg-6 col-md-12 pb-md-4 tofadein-second content-main">
                 <div class="row">
                     <div class="col-md-6">
                         <img src="<?php echo get_template_directory_uri();?>/img/case.jpg" class="img-main-pages" alt="gpu">
@@ -156,7 +156,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-1 col-sm-0">
+        <div class="col-xl-1 col-lg-0">
         </div>
     </div>
 </div>
