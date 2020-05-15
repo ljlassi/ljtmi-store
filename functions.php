@@ -222,4 +222,4 @@ add_action('woocommerce_after_main_content', 'ljtmi_store_wrapper_end', 10);
 
 */
 
-?>
+
