@@ -7,9 +7,9 @@
 <?php get_header(); ?>
 
     <div class="row">
-        <div class="col-md-1 col-sm-0 spacing-sides">
+        <div class="col-xl-1 col-lg-0 spacing-sides">
         </div>
-        <div class="col-md-10 col-sm-12">
+        <div class="col-xl-10 col-lg-12">
             <div class="row">
                 <div class="col-12">
                     <div class="row">
@@ -39,7 +39,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-1 col-sm-0 spacing-sides">
+        <div class="col-xl-1 col-lg-0 spacing-sides">
         </div>
     </div>
 
