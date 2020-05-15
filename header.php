@@ -41,6 +41,5 @@
 </nav>
 <div class="container-fluid">
     <div class="row">
-
-    <div class="col-12 spacing-before-main"></div>
+        <div class="col-12 spacing-before-main-page"></div>
     </div>

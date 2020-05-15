@@ -157,6 +157,10 @@ div.content-main h5 {
     height:50px;
 }
 
+.spacing-before-main-page {
+    height:50px;
+}
+
 .spacing-frontpage-bottom {
     height:50px;
     border-bottom: 1px solid gray;
@@ -169,6 +173,10 @@ div.content-main h5 {
 .img-decoration {
     max-height:5px;
     width:50%;
+}
+
+.sidebar-right {
+    min-height:650px;
 }
 
 .footer {
