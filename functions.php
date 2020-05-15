@@ -60,9 +60,9 @@ add_action( 'after_setup_theme', 'ljtmi_store_custom_header_setup' );
 function ljtmi_store_enqueue_scripts() {
     $dependencies = array();
     //wp_enqueue_script('jquery-4', get_template_directory_uri().'/node_modules/jquery/dist/jquery.min.js', $dependencies, '3.4.1', true );
-    wp_enqueue_script('popper.js', get_template_directory_uri().'/node_modules/popper.js/dist/umd/popper.min.js', $dependencies, '1.15.0', true );
+    wp_enqueue_script('popper.js', get_template_directory_uri().'/node_modules/@popperjs/core/dist/umd/popper.js', $dependencies, '2.4.0', true );
     $dependencies = array('jquery', 'popper.js');
-    wp_enqueue_script('bootstrap', get_template_directory_uri().'/node_modules/bootstrap/dist/js/bootstrap.min.js', $dependencies, '4.3.1', true );
+    wp_enqueue_script('bootstrap', get_template_directory_uri().'/node_modules/bootstrap/dist/js/bootstrap.min.js', $dependencies, '4.5.0', true );
     /*$dependencies = array('jquery', 'popper.js', 'bootstrap');
     wp_enqueue_script('bootstrap-bundle', get_template_directory_uri().'/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js', $dependencies, '4.3.1', false );*/
     $dependencies = null;
